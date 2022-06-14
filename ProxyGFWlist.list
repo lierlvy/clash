@@ -1,8 +1,5 @@
 # 代理列表
 
-# 转换地址网站r
-DOMAIN-KEYWORD,converter-backend
-
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
